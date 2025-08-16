@@ -4,6 +4,6 @@ From August to October 2025, I have decided to challenge myself with a 60-day ch
 
 - Does the Home Run Derby Affect a Batter's Swing?
 - Replicating Rapsodo: Classifying Pitches with Kinematic Data
-- 
+- The Effect of Defensive Alignments and Lineups on Batted Ball Outcomes
 - Optimizing Batting Lineups: A Monte Carlo Approach
 - Creating a New Baseball Metric (TBD)
